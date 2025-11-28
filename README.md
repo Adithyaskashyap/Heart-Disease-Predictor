@@ -58,7 +58,7 @@ This section showcases the application's interface and the key visualizations us
 ![Streamlit Prediction Interface](assets/app_screenshot.png)
 
 ### Key Data Visualizations
-(Showcasing graphs from your `Heart Data Visualization.ipynb` notebook)
+(Showcasing some graphs from  `Heart Data Visualization.ipynb` notebook)
 
 ![Age vs HeartDisease](assets/Age.png)
 ![Chest Pain Type vs Heart Disease](assets/chest_pain_plot.png)

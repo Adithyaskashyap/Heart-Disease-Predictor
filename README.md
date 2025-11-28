@@ -60,6 +60,6 @@ This section showcases the application's interface and the key visualizations us
 ### Key Data Visualizations
 (Showcasing graphs from your `Heart Data Visualization.ipynb` notebook)
 
-`![Age vs Cholesterol Distribution](assets/cholesterol_plot.png)`
+`![Age vs HeartDisease](assets/Age.png)`
 `![Chest Pain Type vs Heart Disease](assets/chest_pain_plot.png)`
 DatasetUsed:https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction

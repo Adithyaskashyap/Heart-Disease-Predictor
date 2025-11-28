@@ -53,12 +53,12 @@ The key files and directories are organized as follows, reflecting the full proj
 This section showcases the application's interface and the key visualizations used during the Exploratory Data Analysis (EDA).
 
 ### Streamlit Application Interface
-(Paste the image files for your Streamlit app here. For example, if you place your screenshots in an `assets` folder, use this format:)
+
 
 ![Streamlit Prediction Interface](assets/app_screenshot.png)
 
 ### Key Data Visualizations
-(Showcasing graphs from your Heart Data Visualization.ipynb notebook)
+(Showcasing graphs from your `Heart Data Visualization.ipynb` notebook)
 
 ![Age vs HeartDisease](assets/Age.png)
 ![Chest Pain Type vs Heart Disease](assets/chest_pain_plot.png)

@@ -55,11 +55,11 @@ This section showcases the application's interface and the key visualizations us
 ### Streamlit Application Interface
 (Paste the image files for your Streamlit app here. For example, if you place your screenshots in an `assets` folder, use this format:)
 
-`![Streamlit Prediction Interface](assets/app_screenshot.png)`
+![Streamlit Prediction Interface](assets/app_screenshot.png)
 
 ### Key Data Visualizations
-(Showcasing graphs from your `Heart Data Visualization.ipynb` notebook)
+(Showcasing graphs from your Heart Data Visualization.ipynb notebook)
 
-`![Age vs HeartDisease](assets/Age.png)`
-`![Chest Pain Type vs Heart Disease](assets/chest_pain_plot.png)`
+![Age vs HeartDisease](assets/Age.png)
+![Chest Pain Type vs Heart Disease](assets/chest_pain_plot.png)
 DatasetUsed:https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction

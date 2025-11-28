@@ -63,3 +63,7 @@ This section showcases the application's interface and the key visualizations us
 ![Age vs HeartDisease](assets/Age.png)
 ![Chest Pain Type vs Heart Disease](assets/chest_pain_plot.png)
 DatasetUsed:https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+### 👨‍💻 Developed By  
+Adithya S
+📧 adiskashyap4444@gmail.com
+🔗 [[LinkedIn Profile](https://www.linkedin.com/in/adithya-s-125a3a25b)] | [[GitHub Repository](https://github.com/Adithyaskashyap/Heart-Disease-Predictor)]
